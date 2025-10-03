@@ -1,8 +1,3 @@
-Here’s a professional README.md draft for your project that you can use on GitHub:
-
-
----
-
 Loan Calculator
 
 A simple command-line tool written in Python for calculating loan repayments.
